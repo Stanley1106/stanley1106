@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![My tools](https://skillicons.dev/icons?i=bash,git,linux,vscode,kali)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
+
+
 <!--
 **Stanley1106/stanley1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
