@@ -1,9 +1,32 @@
-## Hi there 👋
+## 👋 Hi there, I’m Stanley!
 
+<p align='center'>
+  <a href="mailto:Stanley1106chen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Stanley1106chen@gmail.com-red?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Stanley1106">
+    <img src="https://img.shields.io/badge/GitHub-Stanley1106-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/stanley1106/">
+    <img src="https://img.shields.io/badge/LinkedIn-Stanley1106-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 🔧 Tools I Use
 [![My tools](https://skillicons.dev/icons?i=bash,git,linux,vscode,kali)](https://skillicons.dev)
 
+## 💡 Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
 
+---
+
+## 📈 GitHub Stats
+![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanley1106&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stanley1106&theme=tokyonight)](https://git.io/streak-stats)
+
+---
 
 <!--
 **Stanley1106/stanley1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
