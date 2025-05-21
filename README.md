@@ -16,7 +16,7 @@
 ---
 
 ## 🔧 Tools I Use
-[![My tools](https://skillicons.dev/icons?i=bash,git,linux,vscode,kali)](https://skillicons.dev)
+[![My tools](https://skillicons.dev/icons?i=bash,git,linux,vscode,kali,docker)](https://skillicons.dev)
 
 ## 💡 Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
